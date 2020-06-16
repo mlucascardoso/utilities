@@ -2,7 +2,6 @@
 
 ```json
 {
-    // ###### EDITOR ######
     "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
     "editor.cursorBlinking": "expand",
     "editor.detectIndentation": false,
@@ -15,11 +14,9 @@
     "emmet.includeLanguages": { "javascript": "javascriptreact" },
     "emmet.syntaxProfiles": { "javascript": "jsx" },
 
-    // ###### EXPLORER ######
     "explorer.confirmDelete": false,
     "explorer.compactFolders": false,
 
-    // ###### LANGUAGES ######
     "[css]": {
         "editor.formatOnPaste": true,
         "editor.formatOnSave": true
@@ -38,7 +35,6 @@
     },
     "typescript.updateImportsOnFileMove.enabled": "always",
 
-    // ###### FILES ASSOCIATIONS ######
     "files.associations": {
         ".sequelizerc": "javascript",
         "*.hdbprocedure": "sql",
@@ -47,7 +43,6 @@
 
     "material-icon-theme.folders.associations": { "migrations": "tools"},
 
-    // ###### WORKBENCH ######
     "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme"
 }

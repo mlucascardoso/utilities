@@ -1,0 +1,9 @@
+code --install-extension adpyke.vscode-sql-formatter
+code --install-extension andys8.jest-snippets
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dracula-theme.theme-dracula
+code --install-extension eamodio.gitlens
+code --install-extension humao.rest-client
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension PKief.material-icon-theme
+code --install-extension SAPSE.vscode-cds

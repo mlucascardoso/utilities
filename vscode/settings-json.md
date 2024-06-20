@@ -51,11 +51,7 @@
     "[xml]": {
         "editor.defaultFormatter": "DotJoshJohnson.xml"
     },
-    "yaml.schemas": {
-        "file:///home/mlucascardoso/.vscode-server/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
-    },
     "editor.indentSize": "tabSize",
-    "sap.ux.applicationModeler.disableMigrationPrompt": true,
     "remote.autoForwardPortsSource": "hybrid",
 }
 ```
